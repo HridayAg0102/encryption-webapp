@@ -1,4 +1,7 @@
 # encryption-webapp
+
+![image](https://user-images.githubusercontent.com/76818035/175426527-7aa12816-777e-4a7d-b59e-88003787c63e.png)
+
 simple Encryption-Decryption web-app written in Python
 
 ## Steps to run on local:
@@ -12,4 +15,9 @@ simple Encryption-Decryption web-app written in Python
 
 4. While running the app on local, you'll get another (SHARABLE) 
 	link where the app is hosted for 72 hours
+	
+	![image](https://user-images.githubusercontent.com/76818035/175426618-bbdd406f-e2bf-414e-a11c-680ddf6a2784.png)
+
+
+
 5. The running app can be viewed here : [LINK](https://huggingface.co/spaces/HridayAg0102/Encryption-Decryption-webapp)
